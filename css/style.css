@@ -1,0 +1,22 @@
+body {
+  background-color: #ADAD85;
+}
+
+.container {
+}
+
+.header_white {
+  background-color: #EBEBE0; 
+}
+
+.header_red {
+  background-color: #DB704D;
+}
+
+.column_left {
+  background-color: #85E085;
+}
+
+.column_right {
+  background-color: #4D94FF;
+}
