@@ -1,3 +1,15 @@
+/*
+
+Unfortunately I had some trouble building columns that would fill out
+the page dynamically. I would like to investigate more but I was unable 
+to make much progress this evening. 
+
+ In testing I was able to get everything working well except 
+ .column_right which would hang under .column_left. It'll be a fun
+ challenge to correct that! In the meantime I have set static div 
+ sizes which seems to work for now. 
+
+*/
 body {
 	background-color: #ADAD85;
 }
