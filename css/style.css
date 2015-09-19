@@ -1,8 +1,10 @@
 body {
-  background-color: #ADAD85;
+	background-color: #ADAD85;
 }
 
 .container {
+	margin: 0px 25px;
+	width: 1024px;
 }
 
 .header_white {
