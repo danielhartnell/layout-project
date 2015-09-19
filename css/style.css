@@ -17,6 +17,10 @@ body {
 
 .header_red {
   background-color: #DB704D;
+  float: left;
+  width: 984px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .column_left {
