@@ -9,6 +9,10 @@ body {
 
 .header_white {
   background-color: #EBEBE0; 
+  float: left;
+  width: 984px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .header_red {
